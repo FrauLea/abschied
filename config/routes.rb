@@ -1,4 +1,24 @@
 Abschied::Application.routes.draw do
+  get "static/Pages"
+
+  get "static/home"
+
+  get "static/charon"
+
+  get "static/philosophie"
+
+  get "static/wastun"
+
+  get "static/kinder"
+
+  get "static/vorsorge"
+
+  get "static/info"
+
+  get "static/trauer"
+
+  get "static/portadora"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
