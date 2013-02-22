@@ -1,6 +1,4 @@
 class StaticController < ApplicationController
-  def Pages
-  end
 
   def home
   end
@@ -27,5 +25,8 @@ class StaticController < ApplicationController
   end
 
   def portadora
+  end
+  
+  def veranstaltungen
   end
 end

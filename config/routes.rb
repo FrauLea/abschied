@@ -19,6 +19,8 @@ Abschied::Application.routes.draw do
 
   get "static/portadora"
 
+  get "static/veranstaltungen"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
